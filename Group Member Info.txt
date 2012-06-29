@@ -1,0 +1,8 @@
+	Name		|	github username		|	contribution to work
+…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+1. Philip Nunoo		|	philip-nunoo		|	Coding	and Design
+2. Claude Ayitey	|	claudey			|	Coding	and Design
+3. Lucy Owusu		|	lucyowusu		|	Design and Presentation	
+4. Nuku Darko		|	darkonuku		|	Coding	and Design
+5. Fiifi Boadu		|	fiifi			|	Coding	and Design
+6. Elvis Fiakumah	|	fiakumah		|	Coding and Presentation
